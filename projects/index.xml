@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yinbo Yu</title>
-    <link>https://yinbo.ml/projects/</link>
+    <link>https://www.yinbo.ml/projects/</link>
     <description>Recent content in Projects on Yinbo Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://yinbo.ml/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yinbo.ml/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
