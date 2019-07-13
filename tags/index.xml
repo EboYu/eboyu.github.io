@@ -6,10 +6,82 @@
     <description>Recent content in Tags on Yinbo Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.yinbo.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cellular Network</title>
+      <link>https://www.yinbo.ml/tags/cellular-network/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/cellular-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification</title>
+      <link>https://www.yinbo.ml/tags/formal-verification/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/formal-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Security</title>
+      <link>https://www.yinbo.ml/tags/network-security/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/network-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control plane</title>
+      <link>https://www.yinbo.ml/tags/control-plane/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/control-plane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault diagnosis</title>
+      <link>https://www.yinbo.ml/tags/fault-diagnosis/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/fault-diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Reliability</title>
+      <link>https://www.yinbo.ml/tags/network-reliability/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/network-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Defined Network</title>
+      <link>https://www.yinbo.ml/tags/software-defined-network/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/software-defined-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault managment</title>
+      <link>https://www.yinbo.ml/tags/fault-managment/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/fault-managment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
@@ -89,51 +161,6 @@
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://www.yinbo.ml/tags/xml/xslt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://www.yinbo.ml/tags/ci/cd-pipelines/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://www.yinbo.ml/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://www.yinbo.ml/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://www.yinbo.ml/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agile</title>
-      <link>https://www.yinbo.ml/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/agile/</guid>
       <description></description>
     </item>
     
