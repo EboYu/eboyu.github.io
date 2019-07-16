@@ -125,11 +125,6 @@
   </url>
   
   <url>
-    <loc>https://www.yinbo.ml/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.yinbo.ml/tags/devops/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
@@ -145,6 +140,11 @@
     <loc>https://www.yinbo.ml/tags/rest-apis/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/projects/creations/bosh-agents/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
