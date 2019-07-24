@@ -79,12 +79,12 @@
     </item>
     
     <item>
-      <title>Testing Testing Testing</title>
+      <title>Automatically specifying and verify cellular network protocols</title>
       <link>https://www.yinbo.ml/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Mon, 11 Feb 2019 12:41:05 -0500</pubDate>
       
       <guid>https://www.yinbo.ml/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <description>CellScope is a specification and verification framework, CellScope, for exploiting design flawsin cellular network protocols. CellScope consists two major components: a parser frontend and a verification backend. The parser front-end automatically translates LTE source code to formal models and instruments channel and adversary models into LTE models. By slicing the model depending on a property, CellScope performs the CEGAR-based verification backend on it. Once a counterexample is identified, it will be validated on a real OAI testbed platform.</description>
     </item>
     
     <item>

@@ -21,5 +21,14 @@
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
     </item>
     
+    <item>
+      <title>Automatically specifying and verify cellular network protocols</title>
+      <link>https://www.yinbo.ml/projects/creations/bosh-agents/</link>
+      <pubDate>Mon, 11 Feb 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.yinbo.ml/projects/creations/bosh-agents/</guid>
+      <description>CellScope is a specification and verification framework, CellScope, for exploiting design flawsin cellular network protocols. CellScope consists two major components: a parser frontend and a verification backend. The parser front-end automatically translates LTE source code to formal models and instruments channel and adversary models into LTE models. By slicing the model depending on a property, CellScope performs the CEGAR-based verification backend on it. Once a counterexample is identified, it will be validated on a real OAI testbed platform.</description>
+    </item>
+    
   </channel>
 </rss>
