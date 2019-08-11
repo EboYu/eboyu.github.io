@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Yinbo Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.yinbo.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Cellular Network</title>
       <link>https://www.yinbo.ml/tags/cellular-network/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/cellular-network/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Formal Verification</title>
       <link>https://www.yinbo.ml/tags/formal-verification/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/formal-verification/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Network Security</title>
       <link>https://www.yinbo.ml/tags/network-security/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/network-security/</guid>
       <description></description>
@@ -201,7 +201,7 @@
     </item>
     
     <item>
-      <title>REST APIs</title>
+      <title>Rest APIs</title>
       <link>https://www.yinbo.ml/tags/rest-apis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
