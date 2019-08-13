@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>Software-defined Networking</title>
+      <link>https://www.yinbo.ml/tags/software-defined-networking/</link>
+      <pubDate>Mon, 11 Feb 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/software-defined-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fault managment</title>
       <link>https://www.yinbo.ml/tags/fault-managment/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
@@ -98,15 +107,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash/Shell</title>
-      <link>https://www.yinbo.ml/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/bash/shell/</guid>
       <description></description>
     </item>
     
@@ -183,29 +183,38 @@
     </item>
     
     <item>
-      <title>Maven</title>
-      <link>https://www.yinbo.ml/tags/maven/</link>
+      <title>Microservice</title>
+      <link>https://www.yinbo.ml/tags/microservice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yinbo.ml/tags/maven/</guid>
+      <guid>https://www.yinbo.ml/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://www.yinbo.ml/tags/python/</link>
+      <title>Optimization</title>
+      <link>https://www.yinbo.ml/tags/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yinbo.ml/tags/python/</guid>
+      <guid>https://www.yinbo.ml/tags/optimization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rest APIs</title>
+      <title>REST APIs</title>
       <link>https://www.yinbo.ml/tags/rest-apis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource alloction</title>
+      <link>https://www.yinbo.ml/tags/resource-alloction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/resource-alloction/</guid>
       <description></description>
     </item>
     
