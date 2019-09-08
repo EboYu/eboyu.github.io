@@ -19,14 +19,20 @@
   </url>
   
   <url>
-    <loc>https://www.yinbo.ml/publications/cellscope/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <loc>https://www.yinbo.ml/publications/lego/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://www.yinbo.ml/publications/falcon/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/publications/cellscope/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -53,6 +59,72 @@
   </url>
   
   <url>
+    <loc>https://www.yinbo.ml/tags/load-balance/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/microservice/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/multi-objective-optimization/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/publications/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/quality-of-service/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/resource-allocation/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/control-plane/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/fault-diagnosis/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/network-reliability/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yinbo.ml/tags/software-defined-network/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yinbo.ml/tags/cellular-network/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -67,42 +139,6 @@
   <url>
     <loc>https://www.yinbo.ml/tags/network-security/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/publications/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/control-plane/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/fault-diagnosis/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/network-reliability/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/software-defined-network/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,11 +226,6 @@
   
   <url>
     <loc>https://www.yinbo.ml/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yinbo.ml/tags/microservice/</loc>
     <priority>0</priority>
   </url>
   

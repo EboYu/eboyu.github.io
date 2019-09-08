@@ -6,10 +6,91 @@
     <description>Recent content in Tags on Yinbo Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.yinbo.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Load Balance</title>
+      <link>https://www.yinbo.ml/tags/load-balance/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/load-balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservice</title>
+      <link>https://www.yinbo.ml/tags/microservice/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/microservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Optimization</title>
+      <link>https://www.yinbo.ml/tags/multi-objective-optimization/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/multi-objective-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality of Service</title>
+      <link>https://www.yinbo.ml/tags/quality-of-service/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/quality-of-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource allocation</title>
+      <link>https://www.yinbo.ml/tags/resource-allocation/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/resource-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control plane</title>
+      <link>https://www.yinbo.ml/tags/control-plane/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/control-plane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault diagnosis</title>
+      <link>https://www.yinbo.ml/tags/fault-diagnosis/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/fault-diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Reliability</title>
+      <link>https://www.yinbo.ml/tags/network-reliability/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/network-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Defined Network</title>
+      <link>https://www.yinbo.ml/tags/software-defined-network/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yinbo.ml/tags/software-defined-network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cellular Network</title>
@@ -35,42 +116,6 @@
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/network-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control plane</title>
-      <link>https://www.yinbo.ml/tags/control-plane/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/control-plane/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fault diagnosis</title>
-      <link>https://www.yinbo.ml/tags/fault-diagnosis/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/fault-diagnosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Reliability</title>
-      <link>https://www.yinbo.ml/tags/network-reliability/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/network-reliability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software-Defined Network</title>
-      <link>https://www.yinbo.ml/tags/software-defined-network/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/software-defined-network/</guid>
       <description></description>
     </item>
     
@@ -179,15 +224,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.yinbo.ml/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microservice</title>
-      <link>https://www.yinbo.ml/tags/microservice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.yinbo.ml/tags/microservice/</guid>
       <description></description>
     </item>
     
